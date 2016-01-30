@@ -1682,7 +1682,7 @@
 		color: inherit;
 		display: block;
 		outline: 0;
-		/*padding: 0 1em;*/
+		padding: 0 1em;
 		text-decoration: none;
 		width: 100%;
 	}
@@ -2018,6 +2018,10 @@
 			list-style: none;
 			padding: 0;
 		}
+
+			ul.contact > h3 {
+				padding: 0;
+			}
 
 		ul.icons {
 			cursor: default;
@@ -2938,7 +2942,6 @@
 
 			.wrapper.style3 header.major h2, .wrapper.style3 header.major h3, .wrapper.style3 header.major h4, .wrapper.style3 header.major h5, .wrapper.style3 header.major h6 {
 				border-color: rgba(0, 0, 0, 0.125);
-				padding: 0 0 0 0;
 			}
 
 			.wrapper.style3 header.major p {
