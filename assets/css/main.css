@@ -2220,10 +2220,7 @@
 /* Split */
 
 	.split {
-		display: -moz-flex;
-		display: -webkit-flex;
-		display: -ms-flex;
-		display: flex;
+
 	}
 
 		.split > * {
