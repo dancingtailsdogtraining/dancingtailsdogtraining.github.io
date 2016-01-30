@@ -1480,10 +1480,6 @@
 		text-transform: uppercase;
 	}
 
-	h3.contact {
-		margin:	1em 0 0 0;
-	}
-
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
