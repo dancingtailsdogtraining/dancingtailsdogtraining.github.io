@@ -2769,7 +2769,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #3A0842;
+			background-color: #079300;
 			color: #c7ebe8;
 		}
 
@@ -2924,11 +2924,11 @@
 			}
 
 		.wrapper.style2 {
-			background-color: #BFAE48;
+			background-color: #2C57B1;
 		}
 
 		.wrapper.style3 {
-			background-color: #5FAD41;
+			background-color: #2C57B1;
 			color: #d3d4e4;
 		}
 
@@ -2994,7 +2994,7 @@
 			.wrapper.style3 input[type="checkbox"]:checked + label:before,
 			.wrapper.style3 input[type="radio"]:checked + label:before {
 				background: #ffffff;
-				color: #5FAD41;
+				color: #2C57B1;
 			}
 
 			.wrapper.style3 ::-webkit-input-placeholder {
@@ -3258,7 +3258,7 @@
 		}
 
 		.wrapper.style6 {
-			background-color: #391463;
+			background-color: #1BA39E;
 			color: #d3d4e4;
 		}
 
@@ -3324,7 +3324,7 @@
 			.wrapper.style6 input[type="checkbox"]:checked + label:before,
 			.wrapper.style6 input[type="radio"]:checked + label:before {
 				background: #ffffff;
-				color: #5FAD41;
+				color: #2C57B1;
 			}
 
 			.wrapper.style6 ::-webkit-input-placeholder {
